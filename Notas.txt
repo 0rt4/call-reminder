@@ -1,0 +1,9 @@
+      buscador + Filtros
+      lista
+        lista contendrá
+        nombre de cliente
+        trabajo/empresa
+        ultimo contacto
+        botones de más detalle y para borrar
+        telefono
+        etiqueta
