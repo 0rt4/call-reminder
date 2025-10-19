@@ -245,7 +245,7 @@ Este proyecto surge de la necesidad personal de mejorar el seguimiento de llamad
 
 ⭐ **Si este proyecto te interesa, dale una estrella y síguelo para ver su evolución** ⭐
 
-*Proyecto en desarrollo activo - Última actualización: Octubre 2024*
+*Proyecto en desarrollo activo - Última actualización: Octubre 2025*
 
 **[↑ Volver arriba](#-call-reminder)**
 
